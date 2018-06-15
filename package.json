@@ -1,0 +1,25 @@
+{
+  "name": "envinstall",
+  "version": "1.0.0",
+  "description": "Automate your team's development environment setup, based on envinfo reports",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabrindle/envinstall.git"
+  },
+  "keywords": [
+    "environment",
+    "setup",
+    "install",
+    "info"
+  ],
+  "author": "tabrindle@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabrindle/envinstall/issues"
+  },
+  "homepage": "https://github.com/tabrindle/envinstall#readme"
+}
